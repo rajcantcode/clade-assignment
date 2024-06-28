@@ -7,3 +7,5 @@ Landing page assignment for clade
 - clone the repo
 - run npm install
 - run npm run dev
+
+# Live link (https://clade-assignment.pages.dev)
